@@ -129,6 +129,15 @@ p {
 	.p3 {
 		width: 98%;
 	}
+	#t1 {
+		background-color: #0D1321;
+	}
+	#t2 {
+		background-color: #38023B;
+	}
+	#t3 {
+		background-color: #581F18;
+	}
 }
 @media (max-width: 767px) {
 	.s1, .s2, .s3 {
@@ -160,5 +169,14 @@ p {
 	}
 	.p3 {
 		width: 95%;
+	}
+	#t1 {
+		background-color: #0D1321;
+	}
+	#t2 {
+		background-color: #38023B;
+	}
+	#t3 {
+		background-color: #581F18;
 	}
 }
