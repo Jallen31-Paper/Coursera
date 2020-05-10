@@ -25,7 +25,6 @@ p {
 	word-wrap: break-word;
 }
 #t1, #t2, #t3 {
-	background-color: #0D1321;
 	color: #F0EBD8;
 	font-size: 125%;
 	min-width: 40%;
@@ -89,16 +88,14 @@ p {
 	.p3 {
 		width: 95%;
 	}
-	#t1, #t2, #t3 {
+	#t1 {
 		background-color: #0D1321;
-		color: #F0EBD8;
-		font-size: 125%;
-		min-width: 40%;
-		padding: 10px;
-		border: 1px solid black;
-		text-align: center;
-		float: right;
-		font-family: Impact;
+	}
+	#t2 {
+		background-color: #38023B;
+	}
+	#t3 {
+		background-color: #581F18;
 	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
