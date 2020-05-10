@@ -24,7 +24,7 @@ p {
   	font-family: sans-serif;
 	word-wrap: break-word;
 }
-#t1, #t2, #t3 {
+/*#t1, #t2, #t3 {
 	background-color: #0D1321;
 	color: #F0EBD8;
 	font-size: 125%;
@@ -35,7 +35,7 @@ p {
 	float: right;
 	font-family: Impact;
 }
-/*.t2 {
+.t2 {
 	background-color: #38023B;
 	color: #F0EBD8;
 	font-size: 125%;
@@ -89,6 +89,17 @@ p {
 	.p3 {
 		width: 95%;
 	}
+	#t1, #t2, #t3 {
+		background-color: #0D1321;
+		color: #F0EBD8;
+		font-size: 125%;
+		min-width: 40%;
+		padding: 10px;
+		border: 1px solid black;
+		text-align: center;
+		float: right;
+		font-family: Impact;
+}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.s1, .s2, .s3 {
