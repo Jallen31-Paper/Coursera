@@ -28,7 +28,6 @@ p {
 	background-color: #0D1321;
 	color: #F0EBD8;
 	font-size: 125%;
-	border-radius: 25px;
 	min-width: 40%;
 	padding: 10px;
 	border: 1px solid black;
@@ -55,7 +54,6 @@ p {
 	.p1, .p2, .p3 {
 		background-color: #426A5A;
 		color: white;
-		border-radius: 25px;
 		display: table;
 		margin: 0 auto;
 		border: 1px solid black;
@@ -86,8 +84,8 @@ p {
 		width: 100%;
 	}
 	.p1, .p2, .p3 {
-		background: #e2d0aa;
-		border-radius: 25px;
+		background-color: #426A5A;
+		color: white;
 		display: table;
 		margin: 0 auto;
 		border: 1px solid black;
@@ -118,9 +116,8 @@ p {
 		width: 100%;
 	}
 	.p1, .p2, .p3 {
-		background: #e2d0aa;
-		color: #0f404b;
-		border-radius: 25px;
+		background-color: #426A5A;
+		color: white;
 		display: table;
 		margin: 0 auto;
 		border: 1px solid black;
